@@ -1,7 +1,11 @@
 ---
-layout: default 
+layout: default
 title: contact
+published: true
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+1. item
+2. [item](http://praekelt.github.io/handbook/2015/06/07/Welcome-to-Praekelt.html)
+3. item
+
