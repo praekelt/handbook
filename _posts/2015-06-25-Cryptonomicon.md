@@ -484,7 +484,7 @@ The ultimate in marketing success, something “goes viral” when it’s just s
 Voice over IP is Internet telephony, sending voice and even video over the Internet instead of regular phone lines. VoIP is very flexible and low cost, but call quality depends on the bandwidth and quality of the connections to and within the Internet. Skype is a well known VoIP system which is not compatible with any other VoIP systems. SIP is a standard used by most other VoIP systems, that lets you use various different phones or software programs to connect.
 
 ### Vumi
-Praekelt Foundation’s super-scalable open source messaging engine - delivering SMS, Star Menu and Chat messaging that can scale across millions of subscribers for high volume traffic requirements. Visit the [site](http://vumi.org/). 
+Praekelt Foundation’s super-scalable open source messaging engine - delivering SMS, Star Menu and Chat messaging that can scale across millions of subscribers for high volume traffic requirements. Visit the [site](http://vumi.org/) or take a look at the [case studies](http://vumi.org/case-studies/). 
 
 ### Web Services
 Web Services are when one server talks to another server over the web. It’s similar to a browser connecting to a server, but there is no user experience - images or layout, just data transferred. Examples include a web site connecting to an SMS provider to send an SMS, or the links between systems on separate servers that operate together to provide one function.
