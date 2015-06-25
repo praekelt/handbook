@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Cryptonomicon
 ### A short overview of Hellabytes, Exawatts & other assorted Arcana.
@@ -522,4 +523,3 @@ For more info go here.
 Zero rated services are services where users don’t incur any cost while using the service. An example of this is Vodafone Live! This service is only available for Vodacom users and here users can surf this portal for free.
 
 Another great resource - 20 things Learned about Browsers and the Web
-
