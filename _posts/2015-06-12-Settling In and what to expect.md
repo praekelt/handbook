@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ## Settling in - what to expect
