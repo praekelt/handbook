@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Welcome to the Praekelt Group
 
