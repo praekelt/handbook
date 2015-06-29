@@ -2,11 +2,7 @@
 published: true
 ---
 
----
-layout: post
----
-
-
+1
 ## Welcome to the Praekelt Group
 
 We hope this will be the start of a long and happy career with us.  Praekelt is a unique place to work, and if you’re reading this, you can be sure we think you’re a pretty special person who’ll fit right in. It can be a little overwhelming when you first start out so we’ve put together a Handbook to help you find your way.  
