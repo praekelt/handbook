@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Praekelt Foundation Engineering ways of working
 
