@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Our Values
 
@@ -23,5 +24,3 @@ Innovation is at the heart of what we do and whilst we appreciate that not every
 
 ### Transparency
 Praekelt Foundation is run in a very transparent way with input being encouraged and sought out from the entire team. Our F16 strategy session was run as a Google Hangout to enable all Foundation team members to contribute or just listen in and we do our best to ensure that decisions are kept as open as possible.
-
-
