@@ -3,6 +3,7 @@ published: false
 ---
 
 
+
 ## Our Company Structure
 
 ###Praekelt.Com
@@ -41,4 +42,7 @@ We’ll share information about what’s happening at Praekelt Foundation here s
 You might find these [tips for communicating](https://docs.google.com/document/d/1liClZBpo-my9-nUF6LqX1-Dr1WFS3CugfAyS6fbByMw/edit) at Praekelt useful.
 
 And last but definitely not least, we also have an annual “Retreat” towards the end of the year where the full team gets together in an exotic location - watch this space...!
+
+### Company Culture
+We regularly check in with our team to see how they’re enjoying Praekelt life and this is how they describe the company culture. It’s a culture of creativity and collaborative effort built on the foundation of respect and self-discipline. Fun but disciplined, enjoyable, self-reliant, inspiring. forward-thinking, diverse. A chaotic mashup of hard work and fun. Each team has it's own culture with teamwork generally being the main driving force. Hard-working. Fast-paced. Caring, Healthy, Challenging.  We are driven and innovative. We also have a culture of support for each other.  Agile, Flexible, Awesome. Young and vibrant. Passionate. Empowered and accountable with lots of autonomy. Opportunity for growth, People-first. 
 
