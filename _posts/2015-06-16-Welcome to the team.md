@@ -2,6 +2,10 @@
 published: true
 ---
 
+---
+layout: post
+---
+
 
 ## Welcome to the Praekelt Group
 
