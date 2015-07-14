@@ -16,7 +16,7 @@ We’re not a very formal company but we do have a few [Company Policies](https:
 
 We have our own invoicing and costing system set up called Xnet. You’ll receive training on this but it will take some time to feel comfortable with the system. Until then, please ask Jane or one of the Programme Managers (who work most with Xnet) for assistance if you get stuck. 
 
-**### Project Management Processes**
+### Project Management Processes
 Through much trial and error, we’ve come up with a number of templates which are designed to make sure that you save time and avoid errors by covering all the bases upfront. This is typically how we would see a project rolling out:
 
 **1. Business Development** - the initial sales lead is generated and the initial brief taken, with an innovative solution being proposed. Discussions continue until the client is happy with the concept and the estimated budget.
@@ -43,5 +43,5 @@ Briefs for QA and Testing should be submitted to controlroom@praekelt.com and Ne
 ### What to do when things go wrong
 Inevitably, things go wrong and it’s important not to panic (too much).  Your first point of call should be your Team Lead, who will often be able to assist you or will be able to advise who you should ask for help. Praekelt people are always busy so there is a tendency to not want to disturb them, but if you reach out for help, you are sure to get it. The most important thing is to speak up - don’t keep quiet about a problem.
 
-### Ask for Forgiveness - not Permission
+### Ask for forgiveness - not permission
 This is Gustav’s motto and it’s something we live by at Praekelt. There are of course limits to this, but the general principle is that if you believe you have found the best possible solution to a problem, don’t make the problem worse by waiting for approvals. Rather go ahead and do your best to solve the problem. As long as you have thought through this fully and as long as you are acting in the company’s best interests, you will have the team’s support. But again, there’s no need to suffer in silence - if you’re not totally comfortable with your decision, ask for a 2nd opinion, either from your Team Lead or from Gustav himself.
