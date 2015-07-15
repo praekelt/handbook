@@ -29,7 +29,7 @@ layout: bootstrap
 	  <hr>
 
 	            <ul class="pager">
-	                
+             
 	                <li class="next">
 	                    <a href="{{ site.posts[0].previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{site.posts[0].previous.title}}">Next Chapter &rarr;</a>
 	                </li>
