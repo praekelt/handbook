@@ -8,13 +8,13 @@
             
             {% if page.previous.url %}
             <li class="next">
-                <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">Next Chapter &rarr;</a>
+                <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">Next &rarr;</a>
             </li>
             {% endif %}
             <!-- <li><a href="{{site.baseurl + '/'}}">home</a></li> -->
             {% if page.next.url %}
             <li class="previous">
-                <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">&larr; Previous Chapter</a>
+                <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">&larr; Previous </a>
             </li>
             {% endif %}            
 
