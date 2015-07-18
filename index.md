@@ -1,6 +1,8 @@
 ---
 layout: bootstrap
+published: true
 ---
+
 
 <div class="post">
 
@@ -11,7 +13,7 @@ layout: bootstrap
 
   <article class="post-content">
   	<div class="container-fluid">
-  		<div class="row" style="margin-left:-100px">
+  		<div class="row" >
     		<img src="Praekelt.png" align="right" style="width:%100;margin-right: 150px;">
         <div class="col-lg-6 col-lg-offset-3">
           {{site.posts[0].content}}
@@ -30,7 +32,3 @@ layout: bootstrap
 	</div>
 </div>
  -->
-
-
-
-
