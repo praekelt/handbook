@@ -8,6 +8,7 @@ layout: bootstrap
     <script src="//cdn.firebase.com/libs/angularfire/1.1.2/angularfire.min.js"></script>
     <!-- Latest compiled and minified CSS & JS -->
     <link rel="stylesheet" media="screen" href="//netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ "/css/supernice.min.css" | prepend: site.baseurl }}">
     <script src="//code.jquery.com/jquery.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
@@ -24,12 +25,12 @@ layout: bootstrap
       </div>
       <div class="row" ng-controller="SampleCtrl">
           <div class="col-lg-8 col-lg-offset-2">
-              <div class="well">
+              <div class="well" style="background-color: black;">
               <div class="panel panel-default" ng-repeat="term in terms | filter:searchText">
                 <div class="panel-heading">
                   <h3 class="panel-title">[[term.term]]</h3>
                 </div>
-                <div class="panel-body">
+                <div class="panel-body" style="background-color: black;">
                   [[term.meaning]]    
                 </div>
               </div>
