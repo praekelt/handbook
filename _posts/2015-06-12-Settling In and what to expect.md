@@ -43,9 +43,10 @@ Although you should be receiving regular feedback from your Team Lead throughout
 ### Buddy System
 We've recently reintroduced a "buddy" mentoring system at Praekelt, which will partner a new team member with someone at Praekelt (outside of their team) who would be someone they could count on to help them settle into Praekelt life. The Buddy System will continue to help people settle into the company after the Induction week is completed and will hopefully avoid people feeling that they've been left to "sink or swim".
 Specific areas that you could ask your “Buddy” to help you with:
-Making sure you understand our values, mission and vision
-Being your “champion” in the business
-Providing introductions, and a bridge to other people in the company
-Taking a long-term interest in your career development 
-Meeting up with them, in person, on a regular basis
+
+- Making sure you understand our values, mission and vision
+- Being your “champion” in the business
+- Providing introductions, and a bridge to other people in the organisation
+- Taking a long-term interest in your career development 
+- Meeting up with them, in person, on a regular basis
 If you'd like to volunteer to be a "Buddy" yourself in the future, please let Helen know.
