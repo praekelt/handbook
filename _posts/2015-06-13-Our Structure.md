@@ -7,9 +7,8 @@ layout: post
 
 
 
-## Our Company Structure
+## Our Organisation's Structure
 
-### Praekelt.Org
 Praekelt Foundation has offices in Johannesburg, Cape Town, London, Hyderabad and New York. 
 
 The organisation was founded in 2007 to make use of the technology created by the Commercial division in order to have a social impact. Until 2011, The Foundation was fully funded by the Commercial division, with project funding coming from donor grants. In 2010, we were awarded a 3 year funding grant from the Omidyar Network in order to expand our team base and we’ve been able to increase our impact dramatically since this time.
