@@ -90,7 +90,7 @@ By understanding the target audience, the problem that we are trying to solve, a
 
 Because someone has to be able to simplify, and verbalise our roadmap in terms of impact that we will have, the technology that we will use, and the content that we will deliver. 
 
-Content
+## Content
 **Who? **
 - Tamsen de Beer
 - Team of partner content specialists and freelance writers
@@ -165,55 +165,7 @@ The Asana project is the single point of truth for any project, and will have al
 
 We need someone to have a roadmap on how to complete a project, and that can liaise between client and funder requirements, and the internal team’s capacity and requirements. 
 
-## Traffic
-**Who?** 
-- Lisa Adams
-- Verena Schmutz (Consulting) 
 
-**What? **
-- Quarterly planning of teams and workload
-- Managing scheduling of work that is in the system, and making this visible
-- Solving scheduling and team capacity issues
-
-**Where? **
-- [Float](https://login.floatschedule.com/) 
-- Spreadhseet ([topline quarterly planning](https://docs.google.com/spreadsheets/d/1VhOf_ltBT2V1XMRYQglRDggIas7l1zS7aemllvYLEQs/edit#gid=0)) 
-
-**When? **
-Every day. Traffic will keep up with all deliverables by each team member every day
-
-**How?** 
-- Email the brief and the PO to Lisa
-- Discuss the deadlines and dependencies
-- Work will be scheduled with the team, and the brief will be passed on to them
-
-**Why? **
-We need to have visibility on all work in the system as well as all upcoming work. 
-
-## Finance
-**Who? **
-- Hanno van der Walt
-- Celeste van Rooyen
-
-**What? **
-- Payments of all invoices/salaries
-- Financial tracking of the organisation (expenses vs income) 
-- Financial management of the organisation
-- Allocation of POs to each department internally
-- Managing funds and ensuring that we are spending (and saving) at the correct rate in order to complete the work within the funding period
-
-**When? **
-- Finance needs to be aware of when funds are expected to be paid
-- When you need help with complicated financial reports
-- Can assist with any financial concept (when VAT and applicable and what the rules are around that)
-
-**How? **
-- Email accounts@praekelt.com
-- Slack
-
-**Why? **
-
-We need strict controls in place in order to ensure that our Donor's funds are correctly spent. 
 
 ## SRE (or Site Reliability Engineering)
 
@@ -262,5 +214,126 @@ Without SRE:
 - Backups would not exist
 - Deployments would take long, and frequently fail
 
+## Traffic
+**Who?** 
+- Lisa Adams
+- Verena Schmutz (Consulting) 
+
+**What? **
+- Quarterly planning of teams and workload
+- Managing scheduling of work that is in the system, and making this visible
+- Solving scheduling and team capacity issues
+
+**Where? **
+- [Float](https://login.floatschedule.com/) 
+- Spreadhseet ([topline quarterly planning](https://docs.google.com/spreadsheets/d/1VhOf_ltBT2V1XMRYQglRDggIas7l1zS7aemllvYLEQs/edit#gid=0)) 
+
+**When? **
+Every day. Traffic will keep up with all deliverables by each team member every day
+
+**How?** 
+- Email the brief and the PO to Lisa
+- Discuss the deadlines and dependencies
+- Work will be scheduled with the team, and the brief will be passed on to them
+
+**Why? **
+We need to have visibility on all work in the system as well as all upcoming work. 
+
+## Finance
+**Who? **
+- Hanno van der Walt
+- Celeste van Rooyen
+
+**What? **
+- Payments of all invoices/salaries
+- Financial tracking of the organisation (expenses vs income) 
+- Financial management of the organisation
+- Allocation of POs to each department internally
+- Managing funds and ensuring that we are spending (and saving) at the correct rate in order to complete the work within the funding period
+
+**When? **
+- Finance needs to be aware of when funds are expected to be paid
+- When you need help with complicated financial reports
+- Can assist with any financial concept (when VAT and applicable and what the rules are around that)
+
+**How? **
+- Email accounts@praekelt.com
+- Slack
+
+**Why? **
+
+## Talent Management
+**Who? **
+- Helen Graham (Head of Talent)
+- Gustav Praekelt (Chairman)
+- Team Leads
+
+**What? **
+- Recruitment - identifying gaps in the teams and finding the right candidates to fill those gaps
+- Training - ensuring that the team is able to deliver as required by ensuring they receive the necessary training
+- Retention - ensuring that we give people a career path to grow within Praekelt
+- Performance Reviews - ensuring that all team members get regular feedback on their delivery, with any problems being highlighted and addressed as quickly as possible
+- Health Checks - we do quarterly (anonymous) check-ins with the team to unearth any concerns or problems that haven’t been picked up elsewhere, and try to address these as quickly as possible
+- Interaction and Inspiration - each team has their own way of interacting and inspiring each other. We formalise this across the full Foundation team with an annual retreat, where we get everyone together
+
+**When? **
+- Recruitment happens as needed - we try to hire slowly to ensure we find the right candidates, so planning as far ahead as possible is key
+- Training and career planning is ongoing
+- Reviews happen annually, as well as through your initial probation period
+- Health Checks happen quarterly
+
+**How? **
+- Human 2 Human - talk to Helen or your Team Lead for any Talent issues or questions
+- Training will happen in person or via skype calls (depending on locations)
+- Recruitment is done through our website as well as external adverts and team referrals. Interviews are done in person and via skype
+- Reviews and Health Checks are conducted as surveys with the results being discussed in person
+
+**Why? **
+People are Praekelt Foundation’s most important asset and it’s essential for us to ensure that our team are happy, fulfilled and motivated, as well as ensuring that we have the right people in place to be able to deliver to our clients.
+We need strict controls in place in order to ensure that our Donor's funds are correctly spent. 
+
+
+## Legal
+**Who?**
+- Helen Graham
+- Jane Passmore
+- Gustav Praekelt
+- Pria Chetty (Endcode - external Legal Advisor) 
+
+**What?** 
+- Client and Partner contracts ensure that deliverables and costs are clearly agreed to upfront
+- Issues of ownership (Intellectual Property, Trademarks, Content) are protected appropriately
+- Employment Contracts to cover all staff working with Praekelt Foundation
+
+**Where? **
+
+- Legal Channels on Slack and [Asana](https://app.asana.com/0/38182475781211/38182475781211)
+- Email
+
+**When? **
+
+Client contracts - as required
+Partner contracts - need to be signed off before they can start any work for us
+Employment contracts - need to be signed off before work starts
+
+**How? **
+
+Client Contracts:
+- Brief to Helen if we are drafting
+- If we are reviewing a client contract, brief to Helen / Jane for legal issues (they will outsource to Pria where needed), with the relevant PM confirming project deliverables and costs are correct
+- Feedback is consolidated and sent to Client by PM
+- Shared with Gustav for signature through Asana
+
+Partner Contracts: 
+- [Development Partner Request form](https://docs.google.com/a/praekeltconsulting.com/forms/d/1E6TEANZ518a6-AZjMvbUQbPsekrkxMnzD8H-2LSPxgo/viewform)
+- [Non-Development partner request form](https://docs.google.com/a/praekeltconsulting.com/forms/d/1C3MwHc1Gvmej1bw6lyxyxZ5bShs2BcgdXV_a8q9Zv6I/viewform)
+
+- Once Partner has signed, they are loaded to Xnet so that PO’s can be issued. No work should start until PO has been issued
+
+Employment Contracts handled by Helen
+
+**Why? **
+
+Contracts are drawn up in the good times to protect us for the bad times so it’s important that we ensure all possible angles are considered to protect both Praekelt Foundation as well as our Clients.
 
 
