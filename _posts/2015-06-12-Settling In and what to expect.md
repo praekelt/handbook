@@ -22,6 +22,7 @@ During this time, we’d prefer that you don’t get into work mode - we’ve fo
 Once you’ve been with us for 6-8 weeks, you’ll probably be finding your feet, but wishing you could remember some of the info that was shared with you in the Induction, which has since disappeared due to “information overload.” If you’re based outside of South Africa, you may also be finding it hard to relate to people that you haven’t yet met.
 
 So we’ll arrange for you to spend a week with us in our Joburg or Cape Town office. This is what you can expect during this time:
+
 - Half day meeting with Gustav Praekelt to hear his vision for the company and to spend time chatting about your role in the company as we move forward
 - Full day with your Team, making sure that you’re on top of all the necessary processes and making sure any questions which have cropped up have been answered
 - Final day with other Team Leads, who’ll answer any questions you may have about how their teams operate, and fill in any gaps that you’ve found since the Induction session
