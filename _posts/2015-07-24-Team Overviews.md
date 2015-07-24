@@ -49,4 +49,45 @@ Project Evaluations (whether we take something on or not), are done based on the
 
 Once we have decided as a team that we are going to pursue a new opportunity we work with a micro-team to develop the proposal / RFP requirements.
 
+## Strategy
+
+**Who? **
+- Debbie Rogers
+- Jonathan MacKay
+- Pippa Yeats
+- Maritza van den Heuvel
+- Jacqui Watson
+
+**What? **
+- Attending meetings and conferences to spot opportunities
+- Writing up Concept Notes and Scopes of Work that guide our projects
+- Establishing (or working with a team to establish) the monitoring and evaluation criteria of each project
+- Ensuring that our projects have an impact on the end user
+- Determining technical solutions with the engineers to meet a project’s needs
+- Interfacing with clients where and when required to present strategic deliverables
+
+**When? **
+
+Strategy is heavily involved in the Business Development cycle, as they will compile the strategic documentation that will assist with us winning the business. 
+
+When a project is won, they are responsible for ensuring that the team in on board and understands the strategic direction, as well as writing up the Scope of Work that will be signed off by all relevant parties. They will be involved throughout the project lifecycle, for ongoing assessment of the programme, insights on how to improve it, and instructions on how reporting of the programme should be handled. 
+
+Throughout the live stage of the projects, strategists will be required to collaborate with the M&E functions of any project, and make recommendations
+
+**Where? **
+
+Their time is booked by Lisa on a schedule. A PO is required in order to confirm the booking. 
+We are on [Slack](https://praekelt.slack.com/messages/strat-org/): strat-org
+
+They are also often flitting around the world, visiting the areas that our platforms are being used the most. 
+
+**How? **
+
+By understanding the target audience, the problem that we are trying to solve, and the technology that will allow us to create impact
+
+**Why?**
+
+Because someone has to be able to simplify, and verbalise the master plan. 
+
+
 
