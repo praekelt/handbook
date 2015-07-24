@@ -33,21 +33,26 @@ Through much trial and error, we’ve come up with a number of templates which a
 
 Each team has their own process for scheduling in work, and generally their own preferred briefing tools.
 
+
 Studio:
 
 Briefs should be submitted to design@praekelt.com and Lebo Semetsamere will either come back to you to request additional information, or will schedule the work in and confirm when you can expect delivery.
+
 
 Strat / Content:
 
 Briefs should be submitted to lisa.adams@praekelt.com and Lisa will either come back to you to request additional information, or will schedule the work in and confirm when you can expect delivery.
 
+
 Engineering:
 
 Attend the sprint planning meeting at the beginning of a sprint to ensure that your work is included in the sprint. 
 
+
 Control Centre Team:
 
 Briefs for QA and Testing should be submitted to controlroom@praekelt.com and Nelson will come back to you to confirm when this work has been scheduled, and when it is expected to be completed.
+
 
 ### What to do when things go wrong
 Inevitably, things go wrong and it’s important not to panic (too much).  Your first point of call should be your Team Lead, who will often be able to assist you or will be able to advise who you should ask for help. Praekelt people are always busy so there is a tendency to not want to disturb them, but if you reach out for help, you are sure to get it. The most important thing is to speak up - don’t keep quiet about a problem.
