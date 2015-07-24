@@ -30,10 +30,14 @@ Through much trial and error, we’ve come up with a number of templates which a
 [Here’s](https://docs.google.com/document/d/1sDQd44m0IeAsCTLtL_O3PlMRSP18DHDlAArWszl5qlE/edit#heading=h.goue6qmrqggr) some background on the SRE team structure and ways of working.
 
 **Scheduling Work In**
+
 Each team has their own process for scheduling in work, and generally their own preferred briefing tools.
 
-Strat Team / Creative Team
-Briefs should be submitted to strat@praekelt.com / design@praekelt.com and Lebo Semetsamere will either come back to you to request additional information, or will schedule the work in and confirm when you can expect delivery.
+Studio:
+Briefs should be submitted to design@praekelt.com and Lebo Semetsamere will either come back to you to request additional information, or will schedule the work in and confirm when you can expect delivery.
+
+Strat / Content
+Briefs should be submitted to lisa.adams@praekelt.com and Lisa will either come back to you to request additional information, or will schedule the work in and confirm when you can expect delivery.
 
 Engineering
 Attend the sprint planning meeting at the beginning of a sprint to ensure that your work is included in the sprint. 
