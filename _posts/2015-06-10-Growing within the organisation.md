@@ -3,9 +3,10 @@ published: true
 layout: post
 ---
 
+
 ## Growing within Praekelt
 
-Praekelt is an amazing company to work in, with inspiration coming from Gustav as well as the work we do, but especially from the people around you. We hope that you’ll settle in and want to stay with us for a long time, but if you start to find that you’re getting restless, please talk to Helen about this. There are several people in the company who started in one role, found it wasn’t the right fit, or found that they had outgrown the role, and were successful in moving into a new role within the company. Having invested in getting you settled with Praekelt, we really don’t want to lose you and hope that you’ll chose to look at internal alternatives
+Praekelt is an amazing organisation to work in, with inspiration coming from Gustav as well as the work we do, but especially from the people around you. We hope that you’ll settle in and want to stay with us for a long time, but if you start to find that you’re getting restless, please talk to Helen about this. There are several people in the company who started in one role, found it wasn’t the right fit, or found that they had outgrown the role, and were successful in moving into a new role within the company. Having invested in getting you settled with Praekelt, we really don’t want to lose you and hope that you’ll chose to look at internal alternatives
 
 Please share any suggestions you have for ways in which we can improve Praekelt’s recruitment, induction, training and working processes. We’ll ask for specific feedback twice a year in our company Health Check, but outside of this, please feel free to share your suggestions with Helen or your Team Lead.
 
