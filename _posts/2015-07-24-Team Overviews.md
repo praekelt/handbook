@@ -260,6 +260,7 @@ We need to have visibility on all work in the system as well as all upcoming wor
 - Financial management of the organisation
 - Allocation of POs to each department internally
 - Managing funds and ensuring that we are spending (and saving) at the correct rate in order to complete the work within the funding period
+- Find out more about the financial processes in [here](https://docs.google.com/document/d/1PU_U_N52ppn9ezqg2XeGPxXwZKYRMxe6YO3Krf9D2YI/edit)
 
 **When? **
 - Finance needs to be aware of when funds are expected to be paid
