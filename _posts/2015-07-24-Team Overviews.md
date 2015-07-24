@@ -14,7 +14,7 @@ Take a look at the people and the responsibilities of the various teams within t
 - Everyone else in the organisation can and should be doing business development
 
 **What?** 
-We:
+
 - Are the first point of contact for any new lead that cross our paths - via [info@praekeltfoundation.org](info@praekeltfoundation.org) or any other contact channel
 - Manage new relationships
 - Are involved in the project life cycle until sign-off/ approval - after which a project gets handed over to the production team.
@@ -25,8 +25,10 @@ We:
 - Attend meetings and conferences to spot opportunities
 
 **When? **
+
 All the time. Business Development never ends. Even at the most busy times, when you think that you have plenty of work in the system, the Business Development cycle needs to continue working, to ensure that we have work in 6 or 12 months
 
 **Where? **
+
 We get email leads via our website or contacted via Twitter. Individual team members may receive a direct mail. We meet people at conferences, and we are introduces to projects through existing relationships and projects. 
 
