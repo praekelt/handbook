@@ -215,6 +215,52 @@ We need to have visibility on all work in the system as well as all upcoming wor
 
 We need strict controls in place in order to ensure that our Donor's funds are correctly spent. 
 
+## SRE (or Site Reliability Engineering)
+
+**Who?** 
+- Colin Alston (Team Lead)
+- Julian Mulder
+- Jeremy Thurgood (Vumi-specific)
+- Nelson Koma
+- Tsepho Twala
+- Limpho Tlali
+- Jason Barr (QA engineer)
+
+**What?** 
+- This is a shared team between Praekelt Consulting and Praekelt Foundation
+- A hybrid between developers and traditional system administrators
+- DevOps = a methodology of managing production services in close collaboration with developers, and utilising automation systems so that deployments of code and servers are as automated as possible
+
+**Where?** 
+- [Slack](https://praekelt.slack.com/messages/sre/): #SRE
+- In a [ticket](https://praekelt.atlassian.net/secure/RapidBoard.jspa?rapidView=51&projectKey=SYS&quickFilter=111). Always in a ticket. 
+
+**When?** 
+- SRE need to approve new scopes of work - send them to Colin.
+- SRE need to consider QA test plans early in the project - send the Scope of Work to Jason Barr.
+- SRE are involved in the technical bootstrapping of new projects, provisioning QA servers, setting up Jira projects and users, and various related tasks.
+- Once code has been written, SRE are involved in the first deploy to QA, to set up sideloader.
+- SRE handle QA testing once code is ready for QA
+- When the launch is approaching, SRE will provision and deploy the production hosting.
+- Once the site/service is live, SRE will monitor the site and escalate outages to providers or engineering
+- SRE handle QA testing for ongoing post launch releases
+
+**How? **
+
+Keep calm and log a [Jira ticket](https://praekelt.atlassian.net/secure/RapidBoard.jspa?rapidView=51&projectKey=SYS&quickFilter=111)
+
+If in doubt, ask in #SRE
+
+**Why?**
+
+Without SRE:
+- Clients discover sites are down before us
+- Every deployment is its own special snowflake, and can only be supported by the developer who deployed it
+- Sites get slow or go down and engineers are not necessarily good at troubleshooting live sites
+- External dev partners would get root access to all production sites they developed
+- External dev partners would need to support the production hosting of the sites they build on a 24x7 basis
+- Backups would not exist
+- Deployments would take long, and frequently fail
 
 
 
