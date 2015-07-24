@@ -77,7 +77,8 @@ Throughout the live stage of the projects, strategists will be required to colla
 **Where? **
 
 Their time is booked by Lisa on a schedule. A PO is required in order to confirm the booking. 
-We are on [Slack](https://praekelt.slack.com/messages/strat-org/): strat-org
+
+Join our conversations on [Slack](https://praekelt.slack.com/messages/strat-org/): strat-org
 
 They are also often flitting around the world, visiting the areas that our platforms are being used the most. 
 
