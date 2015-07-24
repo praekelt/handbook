@@ -90,5 +90,81 @@ By understanding the target audience, the problem that we are trying to solve, a
 
 Because someone has to be able to simplify, and verbalise our roadmap in terms of impact that we will have, the technology that we will use, and the content that we will deliver. 
 
+Content
+**Who? **
+- Tamsen de Beer
+- Team of partner content specialists and freelance writers
+
+**What? **
+- Developing content strategies for platforms and partners
+- Sourcing and briefing external specialist writers, translators and content experts 
+
+**Where? **
+You can schedule time with Tamsen through Lisa Adams. 
+
+**When?** 
+Content is involved from the Business Development stage to ensure that we understand and can deliver the required content via the relevant channel. They are most active in the production and maintenance phase of a project, ensuring that content is kept up to date and relevant to the end user. 
+
+**How?** 
+We have years of experience in content delivery, moderation and creation. Tamsen and the team draw on this experience to guide the strategic decisions made about content on each channel. 
+
+**Why? **
+Because Content is King!;)
+
+## Programme Management
+
+**Who? **
+- Botswang Kgeledi
+- Carol Warug
+- Chichi Aigbe
+- Indrani Vedula
+- Lauren Kotze
+- Lorraine Chebet
+- Lieze Langford
+- Sheetal Gordhan
+- Tash Sundar
+- Wouda du Plessis
+
+**What? **
+- Overall management and driving of projects from confirmation of grant/funding to final delivery of the project
+- Financial management of project budgets and issuing of POs to relevant team members
+- Project Plan development and tracking 
+- Client meetings and client management
+- Financial and statistical reporting of projects
+- Problem solving and risk management on projects
+- Finalising contracts and financial agreements
+
+**Where? **
+
+We gather on [Slack](https://praekelt.slack.com/messages/org-pm/): org-pm
+
+Each project in ‘production’ has the following: 
+- Github repository
+- Asana Project
+- Slack Channel
+- Jira Project
+- Xnet project
+- Group Email
+- Google Drive Folder
+
+Different tools are used at different stages of the development life-cycle 
+The Asana project is the single point of truth for any project, and will have all the relevant links and docs that pertain to the project. 
+
+**When?**
+
+- When a project has moved out of Business Development and into production
+- Until a project is either shut down, or handed over to another partner
+
+**How? **
+- By understanding the strategic and technical requirements of the project, and what we are trying to achieve
+- Understanding the funder landscape and how to solve a range of issues
+- Having a plan on how to deliver the many and varied things that we create
+- By managing risks and responding to issues as quickly as possible 
+
+**Why?** 
+
+We need someone to have a roadmap on how to complete a project, and that can liaise between client and funder requirements, and the internal team’s capacity and requirements. 
+
+
 
 
