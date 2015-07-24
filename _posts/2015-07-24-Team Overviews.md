@@ -165,6 +165,31 @@ The Asana project is the single point of truth for any project, and will have al
 
 We need someone to have a roadmap on how to complete a project, and that can liaise between client and funder requirements, and the internal team’s capacity and requirements. 
 
+## Traffic
+**Who?** 
+- Lisa Adams
+- Verena Schmutz (Consulting) 
+
+**What? **
+- Quarterly planning of teams and workload
+- Managing scheduling of work that is in the system, and making this visible
+- Solving scheduling and team capacity issues
+
+**Where? **
+- [Float](https://login.floatschedule.com/) 
+- Spreadhseet ([topline quarterly planning](https://docs.google.com/spreadsheets/d/1VhOf_ltBT2V1XMRYQglRDggIas7l1zS7aemllvYLEQs/edit#gid=0)) 
+
+**When? **
+Every day. Traffic will keep up with all deliverables by each team member every day
+
+**How?** 
+- Email the brief and the PO to Lisa
+- Discuss the deadlines and dependencies
+- Work will be scheduled with the team, and the brief will be passed on to them
+
+**Why? **
+We need to have visibility on all work in the system as well as all upcoming work. 
+
 
 
 
