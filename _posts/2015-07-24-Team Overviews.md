@@ -31,12 +31,12 @@ All the time. Business Development never ends. Even at the most busy times, when
 **Where? **
 
 We get email leads via our website or contacted via Twitter. Individual team members may receive a direct mail. We meet people at conferences, and we are introduces to projects through existing relationships and projects. We find out about RFPs and RFQs that are published 
-We are on Slack: https://praekelt.slack.com/messages/bizdev-org/files/F03755SKB/
-We are on Asana :https://app.asana.com/0/34366586463709/36276538213674
-We are on Google Docs (“BizDev” folder = our RFP Folder with standard RFP documentation, etc) https://drive.google.com/drive/#folders/0Bx2KUKL7NSVuVGJUdVd4MkVDN1U 
+We are on [Slack](https://praekelt.slack.com/messages/bizdev-org/): #bizdev-org
+We are on [Asana](https://app.asana.com/0/34366586463709/36276538213674)
+We are on [Google Docs](https://drive.google.com/drive/#folders/0Bx2KUKL7NSVuVGJUdVd4MkVDN1U) 
 
 **How? **
-Project Evaluations (Whether we take something on or not), are done based on the following criteria: 
+Project Evaluations (whether we take something on or not), are done based on the following criteria: 
 - Scale 
 - Impact
 - Mobile first
@@ -44,6 +44,7 @@ Project Evaluations (Whether we take something on or not), are done based on the
 - Innovation
 - Capacity 
 - Skillset
-Once we have decided as a team that we are indeed going to pursue a new opportunity we work with a micro-team to develop the proposal / RFP requirements.
+
+Once we have decided as a team that we are going to pursue a new opportunity we work with a micro-team to develop the proposal / RFP requirements.
 
 
