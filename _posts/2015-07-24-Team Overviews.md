@@ -88,7 +88,7 @@ By understanding the target audience, the problem that we are trying to solve, a
 
 **Why?**
 
-Because someone has to be able to simplify, and verbalise the master plan. 
+Because someone has to be able to simplify, and verbalise our roadmap in terms of impact that we will have, the technology that we will use, and the content that we will deliver. 
 
 
 
