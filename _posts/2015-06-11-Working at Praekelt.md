@@ -29,6 +29,7 @@ Through much trial and error, we’ve come up with a number of templates which a
 **4. Testing / Launch / Review** - once the development process has been completed, testing will need to be completed before launch. We have a Control Centre set-up to handle testing and QA - the Programme Manager will compile a brief for this testing. Once launched, the project should be monitored, preferably via a dashboard, to ensure that it is delivering on client expectations.
 [Here’s](https://docs.google.com/document/d/1sDQd44m0IeAsCTLtL_O3PlMRSP18DHDlAArWszl5qlE/edit#heading=h.goue6qmrqggr) some background on the SRE team structure and ways of working.
 
+
 **Scheduling Work In**
 
 Each team has their own process for scheduling in work, and generally their own preferred briefing tools.
