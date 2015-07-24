@@ -111,6 +111,9 @@ We have years of experience in content delivery, moderation and creation. Tamsen
 **Why? **
 Because Content is King!;)
 
+## Monitoring and Evaluation
+They are busy in the field now, this will be updated soon. 
+
 ## Programme Management
 
 **Who? **
@@ -165,7 +168,14 @@ The Asana project is the single point of truth for any project, and will have al
 
 We need someone to have a roadmap on how to complete a project, and that can liaise between client and funder requirements, and the internal team’s capacity and requirements. 
 
+## User Experience and Design
+We use the Praekelt Consulting Studio as well as a bevvy of specialists. We will tell you more about them when they have a gap in their schedule. 
 
+## UX and Front End
+We still need to get this section updated so that you can find out all about them. 
+
+## Engineering
+They are working on the tech stack at the moment, they will get back to you shortly. 
 
 ## SRE (or Site Reliability Engineering)
 
