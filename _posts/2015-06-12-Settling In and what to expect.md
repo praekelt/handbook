@@ -49,4 +49,5 @@ Specific areas that you could ask your “Buddy” to help you with:
 - Providing introductions, and a bridge to other people in the organisation
 - Taking a long-term interest in your career development 
 - Meeting up with them, in person, on a regular basis
+
 If you'd like to volunteer to be a "Buddy" yourself in the future, please let Helen know.
