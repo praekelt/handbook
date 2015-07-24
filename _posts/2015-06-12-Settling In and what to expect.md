@@ -3,6 +3,7 @@ published: true
 layout: post
 ---
 
+
 ## Settling in - what to expect
 
 Hopefully our recruitment process has helped you to feel that you know us as well as we know you. In order to help you settle in as quickly as possible, you’ll now go through an induction and later, an onboarding process. Here’s how it should work:
@@ -10,9 +11,10 @@ Hopefully our recruitment process has helped you to feel that you know us as wel
 ### Induction
 
 Your first few days with us will be all about absorbing as much information as possible. We’re continually documenting our processes so you should have lots of reading material to get through. Here’s what you should expect in your first few days:
-Meeting with your Line Manager to talk through what will be expected of you
-Meeting with all company Team Leads to find out what they do and how their teams work
-Meeting with all members of your team to find out what they do and how they expect to interact with you
+
+- Meeting with your Line Manager to talk through what will be expected of you
+- Meeting with all company Team Leads to find out what they do and how their teams work
+- Meeting with all members of your team to find out what they do and how they expect to interact with you
 
 During this time, we’d prefer that you don’t get into work mode - we’ve found from experience that if we don’t give you enough time to settle in, it will take a lot longer for you to find your feet.
 
