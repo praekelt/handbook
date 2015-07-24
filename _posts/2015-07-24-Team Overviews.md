@@ -37,6 +37,7 @@ We get email leads via our website or contacted via Twitter. Individual team mem
 - We are on [Google Docs](https://drive.google.com/drive/#folders/0Bx2KUKL7NSVuVGJUdVd4MkVDN1U) 
 
 **How? **
+
 Project Evaluations (whether we take something on or not), are done based on the following criteria: 
 - Scale 
 - Impact
