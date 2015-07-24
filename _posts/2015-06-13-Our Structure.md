@@ -6,52 +6,18 @@ layout: post
 
 
 
+
 ## Our Company Structure
 
-###Praekelt.Com
-
-
-#### Consulting SA
-
-##### Offices:
-
-- Johannesburg
-- Cape Town
-
-Praekelt Consulting SA - with offices in Johannesburg and Cape Town
-
-##### International
-
-- London
-- Lagos
-
-##### Kenya
-
-- Nairobi
-
-##### Clients
-
-Current .Com clients include:
-
-- Telkom
-- DSTV
-- Nampak
-- Diageo 
-- Nike
-
-
 ### Praekelt.Org
-Praekelt Foundation - with offices in Johannesburg, Cape Town, London, Hyderabad and New York
+Praekelt Foundation has offices in Johannesburg, Cape Town, London, Hyderabad and New York. 
 
-Our commercial divisions work with clients who share our passion and who want to reach their emerging market consumers through innovative, scalable mobile solutions.  We don’t just take on any work, and in fact we’ve been known to fire clients when we feel they’re not moving in the same direction as we are. We look for clients that see us as partners, appreciate and take note of our expertise and generally give us the space to do great work.
-
-
-Praekelt Foundation was started in 2007 to make use of the technology created by the Commercial division in order to have a social impact. Until 2011, The Foundation was fully funded by the Commercial division, with project funding coming from donor grants. In 2010, we were awarded a 3 year funding grant from the Omidyar Network in order to expand our team base and we’ve been able to increase our impact dramatically since this time.
+The organisation was founded in 2007 to make use of the technology created by the Commercial division in order to have a social impact. Until 2011, The Foundation was fully funded by the Commercial division, with project funding coming from donor grants. In 2010, we were awarded a 3 year funding grant from the Omidyar Network in order to expand our team base and we’ve been able to increase our impact dramatically since this time.
 
 The Praekelt Foundation is described as “a technology incubator that develops mobile technology solutions for social good.” We believe mobile is the only way to bring life-saving information and services to people in Africa and other emerging markets. The Foundation primarily works in Southern and Eastern Africa at the moment, but we’re exploring opportunities within West Africa and India. We typically work in close partnership with NGOs and governments to help them better reach their target markets through the use of mobile technology.
 
 ### Our Teams
-You’ll find that we have a very flat organisational hierarchy, with Gustav Praekelt still taking a keen interest in all aspects of our operations. If we could, we’d have everyone working on the same level, but as we grow, it becomes impractical for the full team of 80+ to report directly into one person.  
+You’ll find that we have a very flat organisational hierarchy, with Gustav Praekelt still taking a keen interest in all aspects of our operations. If we could, we’d have everyone working on the same level, but as we grow, it becomes impractical for the full team of 80+ (across the group) to report directly into one person.  
 
 So we’ve set up Team Leads, who are there to guide, mentor and direct the people in their teams, but we still have a very collaborative working ethos. We always try to hire people who are smarter than us - rather than feeling threatened by this, instead we are excited by the opportunity to learn from new colleagues. Praekelt Foundation is managed at 3 levels - the Board, which meets quarterly and comprises external Board Members, Exco, which meets weekly and comprises Gustav Praekelt, Debbie Rogers and Jonathan McKay, and Steerco, which meets monthly (or as required) and comprises Exco plus Team Leads. Full details of our corporate governance are available [here](https://docs.google.com/document/d/1BXYZ5BM6ivrKLH95CEFBQRLaPYmJ_agEXV90fV2LlgQ/edit). 
 
@@ -59,6 +25,7 @@ We’re currently 80 team members across the Praekelt Group (30+ at Praekelt Fou
 - general
 - praekelt_org
 - praise_org
+- prk-announce
 We’ll share information about what’s happening at Praekelt Foundation here so it’s useful to keep an eye on these groups. 
 
 You might find these [tips for communicating](https://docs.google.com/document/d/1liClZBpo-my9-nUF6LqX1-Dr1WFS3CugfAyS6fbByMw/edit) at Praekelt useful.
