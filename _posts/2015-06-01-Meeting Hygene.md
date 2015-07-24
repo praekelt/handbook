@@ -52,7 +52,7 @@ This sounds sinister, it's not meant to be.
 
 If people didn't attend, it gives you a fact to further your cause.
 
-"Hi DecisionMaker, we need your help with X. This is the third time we have tried to meet to discuss and we really need you to help us make a call on this, otherwise are going to run out of time."
+"Hi DecisionMaker, we need your help with X. This is the third time we have tried to meet to discuss and we really need you to help us make a call on this, otherwise we are going to run out of time."
 
 Possible responses could be:
 
