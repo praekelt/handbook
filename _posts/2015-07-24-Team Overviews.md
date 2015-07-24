@@ -31,9 +31,10 @@ All the time. Business Development never ends. Even at the most busy times, when
 **Where? **
 
 We get email leads via our website or contacted via Twitter. Individual team members may receive a direct mail. We meet people at conferences, and we are introduces to projects through existing relationships and projects. We find out about RFPs and RFQs that are published 
-We are on [Slack](https://praekelt.slack.com/messages/bizdev-org/): #bizdev-org
-We are on [Asana](https://app.asana.com/0/34366586463709/36276538213674)
-We are on [Google Docs](https://drive.google.com/drive/#folders/0Bx2KUKL7NSVuVGJUdVd4MkVDN1U) 
+
+- We are on [Slack](https://praekelt.slack.com/messages/bizdev-org/): #bizdev-org
+- We are on [Asana](https://app.asana.com/0/34366586463709/36276538213674)
+- We are on [Google Docs](https://drive.google.com/drive/#folders/0Bx2KUKL7NSVuVGJUdVd4MkVDN1U) 
 
 **How? **
 Project Evaluations (whether we take something on or not), are done based on the following criteria: 
