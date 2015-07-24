@@ -190,6 +190,31 @@ Every day. Traffic will keep up with all deliverables by each team member every 
 **Why? **
 We need to have visibility on all work in the system as well as all upcoming work. 
 
+## Finance
+**Who? **
+- Hanno van der Walt
+- Celeste van Rooyen
+
+**What? **
+- Payments of all invoices/salaries
+- Financial tracking of the organisation (expenses vs income) 
+- Financial management of the organisation
+- Allocation of POs to each department internally
+- Managing funds and ensuring that we are spending (and saving) at the correct rate in order to complete the work within the funding period
+
+**When? **
+- Finance needs to be aware of when funds are expected to be paid
+- When you need help with complicated financial reports
+- Can assist with any financial concept (when VAT and applicable and what the rules are around that)
+
+**How? **
+- Email accounts@praekelt.com
+- Slack
+
+**Why? **
+
+We need strict controls in place in order to ensure that our Donor's funds are correctly spent. 
+
 
 
 
