@@ -1,12 +1,13 @@
 # Site settings
 title: PRAEKELT FOUNDATION
 email: info@praekeltfoundation.org
-description: > 
-  Praekelt named one of Top 10 Most Innovative Companies in Africa 
-baseurl: /handbook 
-url: "http://praekelt.github.io" 
+description: >
+  Praekelt named one of Top 10 Most Innovative Companies in Africa
+baseurl: /handbook
+url: "http://praekelt.github.io"
 twitter_username: praekeltfound
 github_username:  praekelt
+permalink: none
 
 # Build settings
 markdown: kramdown
